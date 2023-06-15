@@ -43,9 +43,6 @@ Hemorrhage Detection</h3>
   <ol>
     <li>
       <a href="#introduction">Introduction</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
