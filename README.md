@@ -113,7 +113,7 @@ tensorflow==2.12.0
 The dataset used in this paper can be download via [Kaggle Challenge Dataset](https://www.kaggle.com/competitions/rsna-intracranial-hemorrhage-detection/data)
 
 ### CT Slice Image Processing with Windowing 
-
+[SA_MIL_preprocessing.ipynb](https://github.com/YunanWu2168/SA-MIL/blob/master/SA_MIL_preprocessing.ipynb)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
