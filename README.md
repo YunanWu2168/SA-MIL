@@ -75,9 +75,23 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Tensorflow
+* The codes use Tensorflow and you can download all packages in [requirements.txt](https://github.com/YunanWu2168/SA-MIL/blob/master/requirements.txt).
   ```
-  npm install npm@latest -g
+matplotlib==3.7.1
+
+numpy==1.22.4
+
+opencv_contrib_python==4.7.0.72
+
+opencv_python==4.7.0.72
+
+opencv_python_headless==4.7.0.72
+
+pandas==1.5.3
+
+scikit_learn==1.2.2
+
+tensorflow==2.12.0
   ```
 
 ### Installation
