@@ -1,1 +1,3 @@
-model weights
+baseline: MIL-att without smooth loss
+att_0_5: alpha = 0.5
+att_0_9: aplha = 0.9
