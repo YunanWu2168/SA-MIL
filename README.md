@@ -124,7 +124,8 @@ The dataset used in this paper can be download via [Kaggle Challenge Dataset](ht
 
 [SA_MIL_training.ipynb](https://github.com/YunanWu2168/SA-MIL/blob/master/SA_MIL_training.ipynb)
 
-[Non-SA_MIL_training.ipynb](https://github.com/YunanWu2168/SA-MIL/blob/master/Non-SA_MIL_training.ipynb)
+[Non_SA_MIL_training.ipynb](https://github.com/YunanWu2168/SA-MIL/blob/master/Non_SA_MIL_training.ipynb)
+
 2. Model testing at scan level
 
 3. Model testing at slice level
