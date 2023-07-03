@@ -101,9 +101,11 @@ tensorflow==2.12.0
    ```sh
    pip install requirements.txt
    ```
-2. Open SA-MIL-training.ipynb
-3. Open SA-MIL-testing.ipynb
-4. Open vis-SA-MIL.ipynb
+2. Open SA-MIL-preprocessing.ipynb - How to process head CTs
+3. Open SA-MIL-training.ipynb - Train SA-DMIL
+4. Open Non-SA-MIL-training.ipynb - Train Att-MIL
+5. Open SA-MIL-testing.ipynb - Test SA-DMIL and Att-MIL
+6. Open vis-SA-MIL.ipynb - Visualize at slice level
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
